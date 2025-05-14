@@ -12,7 +12,7 @@
   - [Using MCP tools with `smolagents`](https://github.com/ibagur/pydantic-ai-researcher)
   - [Early RAG experiments with `LangChain`](https://github.com/ibagur/Build-a-QA-Bot-over-private-data-with-OpenAI-and-LangChain)
 - 🌍 Humanitarian Tools
-  - [Cholera hotspot monitoring dashboard in `R`](https://github.com/ibagur/moz-cholera)
+  - [Cholera hotspot monitoring system in `R`](https://github.com/ibagur/moz-cholera)
   - [RAG agent in `LangChain` for GBV in emergencies documentation](https://github.com/ibagur/pydantic-ai-researcher)
   - [GBV Response Dashboard for Türkiye earthquake in `flexdashboard`](https://ibagur.github.io/flexdashboard_test/)
   - [`jupyter`notebook with quick crisis analysis in North Mozambique using ACLED data](https://github.com/ibagur/moz-acled-notebook/tree/main)
